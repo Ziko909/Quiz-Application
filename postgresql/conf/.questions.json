@@ -1,0 +1,322 @@
+[
+  {
+    "question": "Which sport is played with a round ball and two teams of eleven players each?",
+    "option1": "Basketball",
+    "option2": "Football",
+    "option3": "Cricket",
+    "right_answer": "Football",
+    "difficulty_level": "Easy"
+  },
+  {
+    "question": "The highest score in a single turn of bowling is called a?",
+    "option1": "Strike",
+    "option2": "Spare",
+    "option3": "Turkey",
+    "right_answer": "Strike",
+    "difficulty_level": "Easy"
+  },
+  {
+    "question": "Wimbledon is the world's oldest tennis tournament, played on what surface?",
+    "option1": "Hard court",
+    "option2": "Clay court",
+    "option3": "Grass court",
+    "right_answer": "Grass court",
+    "difficulty_level": "Easy"
+  },
+  {
+    "question": "In basketball, how many points are awarded for a free throw?",
+    "option1": "1 point",
+    "option2": "2 points",
+    "option3": "3 points",
+    "right_answer": "1 point",
+    "difficulty_level": "Easy"
+  },
+  {
+    "question": "The Tour de France is a grueling annual cycling race held in which country?",
+    "option1": "Italy",
+    "option2": "Spain",
+    "option3": "France",
+    "right_answer": "France",
+    "difficulty_level": "Medium"
+  },
+  {
+    "question": "Which martial art is known for its use of throws and joint locks?",
+    "option1": "Judo",
+    "option2": "Taekwondo",
+    "option3": "Karate",
+    "right_answer": "Judo",
+    "difficulty_level": "Medium"
+  },
+  {
+    "question": "A birdie in golf refers to scoring how many strokes under par on a hole?",
+    "option1": "1",
+    "option2": "2",
+    "option3": "3",
+    "right_answer": "1",
+    "difficulty_level": "Medium"
+  },
+  {
+    "question": "The Ryder Cup is a biennial golf tournament between teams from Europe and which region?",
+    "option1": "North America",
+    "option2": "South America",
+    "option3": "Asia",
+    "right_answer": "North America",
+    "difficulty_level": "Hard"
+  },
+  {
+    "question": "What is the name of the penalty kick awarded in a game of rugby when a player infringes the rules?",
+    "option1": "Free kick",
+    "option2": "Penalty kick",
+  "option3": "Drop goal",
+    "right_answer": "Penalty kick",
+    "difficulty_level": "Hard"
+  },
+  {
+    "question": "In American football, what is the name of the line of scrimmage where the play starts?",
+    "option1": "End zone",
+    "option2": "Line of scrimmage",
+  "option3": "Hash marks",
+    "right_answer": "Line of scrimmage",
+    "difficulty_level": "Hard"
+  },
+  {
+    "question": "What is the smallest unit of matter?",
+    "option1": "Atom",
+    "option2": "Molecule",
+    "option3": "Cell",
+    "right_answer": "Atom",
+    "difficulty_level": "Easy"
+  },
+  {
+    "question": "The process of plants using sunlight, water, and carbon dioxide to produce food is called?",
+    "option1": "Photosynthesis",
+    "option2": "Cellular respiration",
+    "option3": "Transpiration",
+    "right_answer": "Photosynthesis",
+    "difficulty_level": "Easy"
+  },
+  {
+    "question": "The study of weather patterns and climate is called?",
+    "option1": "Geology",
+    "option2": "Meteorology",
+    "option3": "Astronomy",
+    "right_answer": "Meteorology",
+    "difficulty_level": "Easy"
+  },
+  {
+    "question": "The study of living organisms is called?",
+    "option1": "Biology",
+    "option2": "Chemistry",
+    "option3": "Physics",
+    "right_answer": "Biology",
+    "difficulty_level": "Easy"
+  },
+  {
+    "question": "The building blocks of proteins are called?",
+    "option1": "Carbohydrates",
+    "option2": "Fats",
+    "option3": "Amino acids",
+    "right_answer": "Amino acids",
+    "difficulty_level": "Easy"
+  },
+  {
+    "question": "The theory of evolution by natural selection was proposed by which scientist?",
+    "option1": "Charles Darwin",
+    "option2": "Albert Einstein",
+    "option3": "Stephen Hawking",
+    "right_answer": "Charles Darwin",
+    "difficulty_level": "Medium"
+  },
+  {
+    "question": "What is the name of the force that attracts objects with mass towards each other?",
+    "option1": "Gravity",
+    "option2": "Electromagnetism",
+    "option3": "The strong nuclear force",
+    "right_answer": "Gravity",
+    "difficulty_level": "Medium"
+  },
+  {
+    "question": "The process of splitting an atom's nucleus to release a large amount of energy is called?",
+    "option1": "Nuclear fission",
+    "option2": "Nuclear fusion",
+    "option3": "Radioactive decay",
+    "right_answer": "Nuclear fission",
+    "difficulty_level": "Hard"
+  },
+  {
+    "question": "The human genome is the complete set of genetic instructions for building and maintaining a?",
+    "option1": "Cell",
+    "option2": "Organ",
+    "option3": "Human being",
+    "right_answer": "Human being",
+    "difficulty_level": "Hard"
+  },
+  {
+    "question": "What is the study of the composition, structure, and properties of matter called?",
+    "option1": "Chemistry",
+    "option2": "Physics",
+    "option3": "Biology",
+    "right_answer": "Chemistry",
+    "difficulty_level": "Hard"
+  },
+  {
+    "question": "Which is the world's largest ocean?",
+    "option1": "Pacific Ocean",
+    "option2": "Atlantic Ocean",
+    "option3": "Indian Ocean",
+    "right_answer": "Pacific Ocean",
+    "difficulty_level": "Easy"
+  },
+  {
+    "question": "The Great Wall of China is located in which country?",
+    "option1": "Japan",
+    "option2": "India",
+    "option3": "China",
+    "right_answer": "China",
+    "difficulty_level": "Easy"
+  },
+  {
+    "question": "Mount Everest, the highest mountain in the world, is located in which mountain range?",
+    "option1": "Andes",
+    "option2": "Himalayas",
+    "option3": "Alps",
+    "right_answer": "Himalayas",
+    "difficulty_level": "Easy"
+  },
+  {
+    "question": "The capital of France is?",
+    "option1": "London",
+    "option2": "Berlin",
+    "option3": "Paris",
+    "right_answer": "Paris",
+    "difficulty_level": "Easy"
+  },
+  {
+    "question": "The Amazon rainforest is located in which continent?",
+    "option1": "Africa",
+    "option2": "South America",
+    "option3": "Asia",
+    "right_answer": "South America",
+    "difficulty_level": "Medium"
+  },
+  {
+    "question": "The Nile River, the world's longest river, flows through which country?",
+    "option1": "Egypt",
+    "option2": "Brazil",
+    "option3": "China",
+    "right_answer": "Egypt",
+    "difficulty_level": "Medium"
+  },
+  {
+    "question": "The Great Barrier Reef is the world's largest coral reef system located off the coast of which country?",
+    "option1": "Australia",
+    "option2": "Indonesia",
+    "option3": "Philippines",
+    "right_answer": "Australia",
+    "difficulty_level": "Medium"
+  },
+  {
+    "question": "What is the name of the imaginary line that circles the Earth at zero degrees latitude?",
+    "option1": "Equator",
+    "option2": "Prime Meridian",
+    "option3": "Tropic of Cancer",
+    "right_answer": "Equator",
+    "difficulty_level": "Hard"
+  },
+  {
+    "question": "Mount Fuji is a volcano located in which country?",
+    "option1": "China",
+    "option2": "Japan",
+    "option3": "Korea",
+    "right_answer": "Japan",
+    "difficulty_level": "Hard"
+  },
+  {
+    "question": "The continent of Antarctica is almost entirely covered in?",
+    "option1": "Forest",
+    "option2": "Desert",
+    "option3": "Ice",
+    "right_answer": "Ice",
+    "difficulty_level": "Hard"
+  },
+  {
+    "question": "What symbol is commonly used to indicate the beginning of a single-line comment in Python?",
+    "option1": "//",
+    "option2": "#",
+    "option3": ";",
+    "right_answer": "#",
+    "difficulty_level": "Easy"
+  },
+  {
+    "question": "The basic building block of a program that performs a specific task is called a?",
+    "option1": "Function",
+    "option2": "Variable",
+    "option3": "Loop",
+    "right_answer": "Function",
+    "difficulty_level": "Easy"
+  },
+  {
+    "question": "In programming, what does the term 'DRY' stand for?",
+    "option1": "Don't Repeat Yourself",
+    "option2": "Direct Result Yielded",
+    "option3": "Data Retrieval YAML",
+    "right_answer": "Don't Repeat Yourself",
+    "difficulty_level": "Easy"
+  },
+  {
+    "question": "Which of these is NOT a primitive data type in JavaScript?",
+    "option1": "String",
+    "option2": "Object",
+    "option3": "Number",
+    "right_answer": "Object",
+    "difficulty_level": "Easy"
+  },
+  {
+    "question": "What is the process of converting code written in one programming language to another language called?",
+    "option1": "Debugging",
+    "option2": "Compiling",
+    "option3": "Transpiling",
+    "right_answer": "Transpiling",
+    "difficulty_level": "Medium"
+  },
+  {
+    "question": "In object-oriented programming, what term refers to the inheritance of properties and methods from a parent class?",
+    "option1": "Encapsulation",
+    "option2": "Polymorphism",
+    "option3": "Inheritance",
+    "right_answer": "Inheritance",
+    "difficulty_level": "Medium"
+  },
+  {
+    "question": "A data structure that allows efficient access to elements by key is called a?",
+    "option1": "Array",
+    "option2": "Linked List",
+    "option3": "Hash Table",
+    "right_answer": "Hash Table",
+    "difficulty_level": "Medium"
+  },
+  {
+    "question": "What is a closure in programming, and how does it work?",
+    "option1": "A closure is a function that remembers the environment in which it was created, even after the outer function has returned.",
+    "option2": "A closure is a way to group related functions together.",
+    "option3": "A closure is a special type of variable that can store multiple values.",
+    "right_answer": "A closure is a function that remembers the environment in which it was created, even after the outer function has returned.",
+    "difficulty_level": "Hard"
+  },
+  {
+    "question": "What are the differences between interpreted and compiled languages in programming?",
+    "option1": "Interpreted languages are executed line by line, while compiled languages are converted into machine code before execution.",
+    "option2": "Interpreted languages are faster than compiled languages, while compiled languages offer better performance.",
+    "option3": "Interpreted languages are only used for web development, while compiled languages are used for system programming.",
+    "right_answer": "Interpreted languages are executed line by line, while compiled languages are converted into machine code before execution.",
+    "difficulty_level": "Hard"
+  },
+  {
+    "question": "What is the concept of Big O notation used for in computer science?",
+    "option1": "Big O notation is used to describe the efficiency of algorithms in terms of their time complexity.",
+    "option2": "Big O notation is a way to represent floating-point numbers in computers.",
+    "option3": "Big O notation is a syntax for defining variables in programming languages.",
+    "right_answer": "Big O notation is used to describe the efficiency of algorithms in terms of their time complexity.",
+    "difficulty_level": "Hard"
+  }
+]

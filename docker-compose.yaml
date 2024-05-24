@@ -1,12 +1,12 @@
 services:
   postgres:
-    image: postgres:latest
+    image: postgres:v1
+    build:
+      context: ./postgresql/
     ports:
       - "5432:5432"
     container_name: postgres
     env_file: ./.env
-    volumes:
-      - ./database:/var/lib/postgresql/data  # Persistent storage for data
     networks:
       - Quiz-Application
   pgadmin:
