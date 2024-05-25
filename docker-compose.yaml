@@ -9,14 +9,26 @@ services:
     env_file: ./.env
     networks:
       - Quiz-Application
-  pgadmin:
-    image: dpage/pgadmin4
-    container_name: pgadmin
+  QuizAPI:
+    image: quizapi:v1
+    build:
+      context: ./backend/
     ports:
-      - "8080:80"  # Map container port 80 (pgAdmin) to host port 8080
+      - "8080:8080"
+    container_name: QuizAPI
     env_file: ./.env
     networks:
       - Quiz-Application
+    depends_on:
+      - postgres
+#  pgadmin:
+#    image: dpage/pgadmin4
+#    container_name: pgadmin
+#    ports:
+#      - "8080:80"  # Map container port 80 (pgAdmin) to host port 8080
+#    env_file: ./.env
+#    networks:
+#      - Quiz-Application
 
 networks:
  Quiz-Application:

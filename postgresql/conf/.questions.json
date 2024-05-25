@@ -1,322 +1,362 @@
 [
   {
-    "question": "Which sport is played with a round ball and two teams of eleven players each?",
-    "option1": "Basketball",
-    "option2": "Football",
-    "option3": "Cricket",
-    "right_answer": "Football",
-    "difficulty_level": "Easy"
+    "Question": "Which sport is played with a round ball and two teams of eleven players each?",
+    "Option1": "Basketball",
+    "Option2": "Football",
+    "Option3": "Cricket",
+    "Right_answer": "Football",
+    "Difficulty_level": "Easy",
+    "Category": "Sport"
   },
   {
-    "question": "The highest score in a single turn of bowling is called a?",
-    "option1": "Strike",
-    "option2": "Spare",
-    "option3": "Turkey",
-    "right_answer": "Strike",
-    "difficulty_level": "Easy"
+    "Question": "The highest score in a single turn of bowling is called a?",
+    "Option1": "Strike",
+    "Option2": "Spare",
+    "Option3": "Turkey",
+    "Right_answer": "Strike",
+    "Difficulty_level": "Easy",
+    "Category": "Sport"
   },
   {
-    "question": "Wimbledon is the world's oldest tennis tournament, played on what surface?",
-    "option1": "Hard court",
-    "option2": "Clay court",
-    "option3": "Grass court",
-    "right_answer": "Grass court",
-    "difficulty_level": "Easy"
+    "Question": "Wimbledon is the world's oldest tennis tournament, played on what surface?",
+    "Option1": "Hard court",
+    "Option2": "Clay court",
+    "Option3": "Grass court",
+    "Right_answer": "Grass court",
+    "Difficulty_level": "Easy",
+    "Category": "Sport"
   },
   {
-    "question": "In basketball, how many points are awarded for a free throw?",
-    "option1": "1 point",
-    "option2": "2 points",
-    "option3": "3 points",
-    "right_answer": "1 point",
-    "difficulty_level": "Easy"
+    "Question": "In basketball, how many points are awarded for a free throw?",
+    "Option1": "1 point",
+    "Option2": "2 points",
+    "Option3": "3 points",
+    "Right_answer": "1 point",
+    "Difficulty_level": "Easy",
+    "Category": "Sport"
   },
   {
-    "question": "The Tour de France is a grueling annual cycling race held in which country?",
-    "option1": "Italy",
-    "option2": "Spain",
-    "option3": "France",
-    "right_answer": "France",
-    "difficulty_level": "Medium"
+    "Question": "The Tour de France is a grueling annual cycling race held in which country?",
+    "Option1": "Italy",
+    "Option2": "Spain",
+    "Option3": "France",
+    "Right_answer": "France",
+    "Difficulty_level": "Medium",
+    "Category": "Sport"
   },
   {
-    "question": "Which martial art is known for its use of throws and joint locks?",
-    "option1": "Judo",
-    "option2": "Taekwondo",
-    "option3": "Karate",
-    "right_answer": "Judo",
-    "difficulty_level": "Medium"
+    "Question": "Which martial art is known for its use of throws and joint locks?",
+    "Option1": "Judo",
+    "Option2": "Taekwondo",
+    "Option3": "Karate",
+    "Right_answer": "Judo",
+    "Difficulty_level": "Medium",
+    "Category": "Sport"
   },
   {
-    "question": "A birdie in golf refers to scoring how many strokes under par on a hole?",
-    "option1": "1",
-    "option2": "2",
-    "option3": "3",
-    "right_answer": "1",
-    "difficulty_level": "Medium"
+    "Question": "A birdie in golf refers to scoring how many strokes under par on a hole?",
+    "Option1": "1",
+    "Option2": "2",
+    "Option3": "3",
+    "Right_answer": "1",
+    "Difficulty_level": "Medium",
+    "Category": "Sport"
   },
   {
-    "question": "The Ryder Cup is a biennial golf tournament between teams from Europe and which region?",
-    "option1": "North America",
-    "option2": "South America",
-    "option3": "Asia",
-    "right_answer": "North America",
-    "difficulty_level": "Hard"
+    "Question": "The Ryder Cup is a biennial golf tournament between teams from Europe and which region?",
+    "Option1": "North America",
+    "Option2": "South America",
+    "Option3": "Asia",
+    "Right_answer": "North America",
+    "Difficulty_level": "Hard",
+    "Category": "Sport"
   },
   {
-    "question": "What is the name of the penalty kick awarded in a game of rugby when a player infringes the rules?",
-    "option1": "Free kick",
-    "option2": "Penalty kick",
-  "option3": "Drop goal",
-    "right_answer": "Penalty kick",
-    "difficulty_level": "Hard"
+    "Question": "What is the name of the penalty kick awarded in a game of rugby when a player infringes the rules?",
+    "Option1": "Free kick",
+    "Option2": "Penalty kick",
+  "Option3": "Drop goal",
+    "Right_answer": "Penalty kick",
+    "Difficulty_level": "Hard",
+    "Category": "Sport"
   },
   {
-    "question": "In American football, what is the name of the line of scrimmage where the play starts?",
-    "option1": "End zone",
-    "option2": "Line of scrimmage",
-  "option3": "Hash marks",
-    "right_answer": "Line of scrimmage",
-    "difficulty_level": "Hard"
+    "Question": "In American football, what is the name of the line of scrimmage where the play starts?",
+    "Option1": "End zone",
+    "Option2": "Line of scrimmage",
+  "Option3": "Hash marks",
+    "Right_answer": "Line of scrimmage",
+    "Difficulty_level": "Hard",
+    "Category": "Sport"
   },
   {
-    "question": "What is the smallest unit of matter?",
-    "option1": "Atom",
-    "option2": "Molecule",
-    "option3": "Cell",
-    "right_answer": "Atom",
-    "difficulty_level": "Easy"
+    "Question": "What is the smallest unit of matter?",
+    "Option1": "Atom",
+    "Option2": "Molecule",
+    "Option3": "Cell",
+    "Right_answer": "Atom",
+    "Difficulty_level": "Easy",
+    "Category": "Science"
   },
   {
-    "question": "The process of plants using sunlight, water, and carbon dioxide to produce food is called?",
-    "option1": "Photosynthesis",
-    "option2": "Cellular respiration",
-    "option3": "Transpiration",
-    "right_answer": "Photosynthesis",
-    "difficulty_level": "Easy"
+    "Question": "The process of plants using sunlight, water, and carbon dioxide to produce food is called?",
+    "Option1": "Photosynthesis",
+    "Option2": "Cellular respiration",
+    "Option3": "Transpiration",
+    "Right_answer": "Photosynthesis",
+    "Difficulty_level": "Easy",
+    "Category": "Science"
   },
   {
-    "question": "The study of weather patterns and climate is called?",
-    "option1": "Geology",
-    "option2": "Meteorology",
-    "option3": "Astronomy",
-    "right_answer": "Meteorology",
-    "difficulty_level": "Easy"
+    "Question": "The study of weather patterns and climate is called?",
+    "Option1": "Geology",
+    "Option2": "Meteorology",
+    "Option3": "Astronomy",
+    "Right_answer": "Meteorology",
+    "Difficulty_level": "Easy",
+    "Category": "Science"
   },
   {
-    "question": "The study of living organisms is called?",
-    "option1": "Biology",
-    "option2": "Chemistry",
-    "option3": "Physics",
-    "right_answer": "Biology",
-    "difficulty_level": "Easy"
+    "Question": "The study of living organisms is called?",
+    "Option1": "Biology",
+    "Option2": "Chemistry",
+    "Option3": "Physics",
+    "Right_answer": "Biology",
+    "Difficulty_level": "Easy",
+    "Category": "Science"
   },
   {
-    "question": "The building blocks of proteins are called?",
-    "option1": "Carbohydrates",
-    "option2": "Fats",
-    "option3": "Amino acids",
-    "right_answer": "Amino acids",
-    "difficulty_level": "Easy"
+    "Question": "The building blocks of proteins are called?",
+    "Option1": "Carbohydrates",
+    "Option2": "Fats",
+    "Option3": "Amino acids",
+    "Right_answer": "Amino acids",
+    "Difficulty_level": "Easy",
+    "Category": "Science"
   },
   {
-    "question": "The theory of evolution by natural selection was proposed by which scientist?",
-    "option1": "Charles Darwin",
-    "option2": "Albert Einstein",
-    "option3": "Stephen Hawking",
-    "right_answer": "Charles Darwin",
-    "difficulty_level": "Medium"
+    "Question": "The theory of evolution by natural selection was proposed by which scientist?",
+    "Option1": "Charles Darwin",
+    "Option2": "Albert Einstein",
+    "Option3": "Stephen Hawking",
+    "Right_answer": "Charles Darwin",
+    "Difficulty_level": "Medium",
+    "Category": "Science"
   },
   {
-    "question": "What is the name of the force that attracts objects with mass towards each other?",
-    "option1": "Gravity",
-    "option2": "Electromagnetism",
-    "option3": "The strong nuclear force",
-    "right_answer": "Gravity",
-    "difficulty_level": "Medium"
+    "Question": "What is the name of the force that attracts objects with mass towards each other?",
+    "Option1": "Gravity",
+    "Option2": "Electromagnetism",
+    "Option3": "The strong nuclear force",
+    "Right_answer": "Gravity",
+    "Difficulty_level": "Medium",
+    "Category": "Science"
   },
   {
-    "question": "The process of splitting an atom's nucleus to release a large amount of energy is called?",
-    "option1": "Nuclear fission",
-    "option2": "Nuclear fusion",
-    "option3": "Radioactive decay",
-    "right_answer": "Nuclear fission",
-    "difficulty_level": "Hard"
+    "Question": "The process of splitting an atom's nucleus to release a large amount of energy is called?",
+    "Option1": "Nuclear fission",
+    "Option2": "Nuclear fusion",
+    "Option3": "Radioactive decay",
+    "Right_answer": "Nuclear fission",
+    "Difficulty_level": "Hard",
+    "Category": "Science"
   },
   {
-    "question": "The human genome is the complete set of genetic instructions for building and maintaining a?",
-    "option1": "Cell",
-    "option2": "Organ",
-    "option3": "Human being",
-    "right_answer": "Human being",
-    "difficulty_level": "Hard"
+    "Question": "The human genome is the complete set of genetic instructions for building and maintaining a?",
+    "Option1": "Cell",
+    "Option2": "Organ",
+    "Option3": "Human being",
+    "Right_answer": "Human being",
+    "Difficulty_level": "Hard",
+    "Category": "Science"
   },
   {
-    "question": "What is the study of the composition, structure, and properties of matter called?",
-    "option1": "Chemistry",
-    "option2": "Physics",
-    "option3": "Biology",
-    "right_answer": "Chemistry",
-    "difficulty_level": "Hard"
+    "Question": "What is the study of the composition, structure, and properties of matter called?",
+    "Option1": "Chemistry",
+    "Option2": "Physics",
+    "Option3": "Biology",
+    "Right_answer": "Chemistry",
+    "Difficulty_level": "Hard",
+    "Category": "Science"
   },
   {
-    "question": "Which is the world's largest ocean?",
-    "option1": "Pacific Ocean",
-    "option2": "Atlantic Ocean",
-    "option3": "Indian Ocean",
-    "right_answer": "Pacific Ocean",
-    "difficulty_level": "Easy"
+    "Question": "Which is the world's largest ocean?",
+    "Option1": "Pacific Ocean",
+    "Option2": "Atlantic Ocean",
+    "Option3": "Indian Ocean",
+    "Right_answer": "Pacific Ocean",
+    "Difficulty_level": "Easy",
+    "Category": "Geography"
   },
   {
-    "question": "The Great Wall of China is located in which country?",
-    "option1": "Japan",
-    "option2": "India",
-    "option3": "China",
-    "right_answer": "China",
-    "difficulty_level": "Easy"
+    "Question": "The Great Wall of China is located in which country?",
+    "Option1": "Japan",
+    "Option2": "India",
+    "Option3": "China",
+    "Right_answer": "China",
+    "Difficulty_level": "Easy",
+    "Category": "Geography"
   },
   {
-    "question": "Mount Everest, the highest mountain in the world, is located in which mountain range?",
-    "option1": "Andes",
-    "option2": "Himalayas",
-    "option3": "Alps",
-    "right_answer": "Himalayas",
-    "difficulty_level": "Easy"
+    "Question": "Mount Everest, the highest mountain in the world, is located in which mountain range?",
+    "Option1": "Andes",
+    "Option2": "Himalayas",
+    "Option3": "Alps",
+    "Right_answer": "Himalayas",
+    "Difficulty_level": "Easy",
+    "Category": "Geography"
   },
   {
-    "question": "The capital of France is?",
-    "option1": "London",
-    "option2": "Berlin",
-    "option3": "Paris",
-    "right_answer": "Paris",
-    "difficulty_level": "Easy"
+    "Question": "The capital of France is?",
+    "Option1": "London",
+    "Option2": "Berlin",
+    "Option3": "Paris",
+    "Right_answer": "Paris",
+    "Difficulty_level": "Easy",
+    "Category": "Geography"
   },
   {
-    "question": "The Amazon rainforest is located in which continent?",
-    "option1": "Africa",
-    "option2": "South America",
-    "option3": "Asia",
-    "right_answer": "South America",
-    "difficulty_level": "Medium"
+    "Question": "The Amazon rainforest is located in which continent?",
+    "Option1": "Africa",
+    "Option2": "South America",
+    "Option3": "Asia",
+    "Right_answer": "South America",
+    "Difficulty_level": "Medium",
+    "Category": "Geography"
   },
   {
-    "question": "The Nile River, the world's longest river, flows through which country?",
-    "option1": "Egypt",
-    "option2": "Brazil",
-    "option3": "China",
-    "right_answer": "Egypt",
-    "difficulty_level": "Medium"
+    "Question": "The Nile River, the world's longest river, flows through which country?",
+    "Option1": "Egypt",
+    "Option2": "Brazil",
+    "Option3": "China",
+    "Right_answer": "Egypt",
+    "Difficulty_level": "Medium",
+    "Category": "Geography"
   },
   {
-    "question": "The Great Barrier Reef is the world's largest coral reef system located off the coast of which country?",
-    "option1": "Australia",
-    "option2": "Indonesia",
-    "option3": "Philippines",
-    "right_answer": "Australia",
-    "difficulty_level": "Medium"
+    "Question": "The Great Barrier Reef is the world's largest coral reef system located off the coast of which country?",
+    "Option1": "Australia",
+    "Option2": "Indonesia",
+    "Option3": "Philippines",
+    "Right_answer": "Australia",
+    "Difficulty_level": "Medium",
+    "Category": "Geography"
   },
   {
-    "question": "What is the name of the imaginary line that circles the Earth at zero degrees latitude?",
-    "option1": "Equator",
-    "option2": "Prime Meridian",
-    "option3": "Tropic of Cancer",
-    "right_answer": "Equator",
-    "difficulty_level": "Hard"
+    "Question": "What is the name of the imaginary line that circles the Earth at zero degrees latitude?",
+    "Option1": "Equator",
+    "Option2": "Prime Meridian",
+    "Option3": "Tropic of Cancer",
+    "Right_answer": "Equator",
+    "Difficulty_level": "Hard",
+    "Category": "Geography"
   },
   {
-    "question": "Mount Fuji is a volcano located in which country?",
-    "option1": "China",
-    "option2": "Japan",
-    "option3": "Korea",
-    "right_answer": "Japan",
-    "difficulty_level": "Hard"
+    "Question": "Mount Fuji is a volcano located in which country?",
+    "Option1": "China",
+    "Option2": "Japan",
+    "Option3": "Korea",
+    "Right_answer": "Japan",
+    "Difficulty_level": "Hard",
+    "Category": "Geography"
   },
   {
-    "question": "The continent of Antarctica is almost entirely covered in?",
-    "option1": "Forest",
-    "option2": "Desert",
-    "option3": "Ice",
-    "right_answer": "Ice",
-    "difficulty_level": "Hard"
+    "Question": "The continent of Antarctica is almost entirely covered in?",
+    "Option1": "Forest",
+    "Option2": "Desert",
+    "Option3": "Ice",
+    "Right_answer": "Ice",
+    "Difficulty_level": "Hard",
+    "Category": "Geography"
   },
   {
-    "question": "What symbol is commonly used to indicate the beginning of a single-line comment in Python?",
-    "option1": "//",
-    "option2": "#",
-    "option3": ";",
-    "right_answer": "#",
-    "difficulty_level": "Easy"
+    "Question": "What symbol is commonly used to indicate the beginning of a single-line comment in Python?",
+    "Option1": "//",
+    "Option2": "#",
+    "Option3": ";",
+    "Right_answer": "#",
+    "Difficulty_level": "Easy",
+    "Category": "Programming"
   },
   {
-    "question": "The basic building block of a program that performs a specific task is called a?",
-    "option1": "Function",
-    "option2": "Variable",
-    "option3": "Loop",
-    "right_answer": "Function",
-    "difficulty_level": "Easy"
+    "Question": "The basic building block of a program that performs a specific task is called a?",
+    "Option1": "Function",
+    "Option2": "Variable",
+    "Option3": "Loop",
+    "Right_answer": "Function",
+    "Difficulty_level": "Easy",
+    "Category": "Programming"
   },
   {
-    "question": "In programming, what does the term 'DRY' stand for?",
-    "option1": "Don't Repeat Yourself",
-    "option2": "Direct Result Yielded",
-    "option3": "Data Retrieval YAML",
-    "right_answer": "Don't Repeat Yourself",
-    "difficulty_level": "Easy"
+    "Question": "In programming, what does the term 'DRY' stand for?",
+    "Option1": "Don't Repeat Yourself",
+    "Option2": "Direct Result Yielded",
+    "Option3": "Data Retrieval YAML",
+    "Right_answer": "Don't Repeat Yourself",
+    "Difficulty_level": "Easy",
+    "Category": "Programming"
   },
   {
-    "question": "Which of these is NOT a primitive data type in JavaScript?",
-    "option1": "String",
-    "option2": "Object",
-    "option3": "Number",
-    "right_answer": "Object",
-    "difficulty_level": "Easy"
+    "Question": "Which of these is NOT a primitive data type in JavaScript?",
+    "Option1": "String",
+    "Option2": "Object",
+    "Option3": "Number",
+    "Right_answer": "Object",
+    "Difficulty_level": "Easy",
+    "Category": "Programming"
   },
   {
-    "question": "What is the process of converting code written in one programming language to another language called?",
-    "option1": "Debugging",
-    "option2": "Compiling",
-    "option3": "Transpiling",
-    "right_answer": "Transpiling",
-    "difficulty_level": "Medium"
+    "Question": "What is the process of converting code written in one programming language to another language called?",
+    "Option1": "Debugging",
+    "Option2": "Compiling",
+    "Option3": "Transpiling",
+    "Right_answer": "Transpiling",
+    "Difficulty_level": "Medium",
+    "Category": "Programming"
   },
   {
-    "question": "In object-oriented programming, what term refers to the inheritance of properties and methods from a parent class?",
-    "option1": "Encapsulation",
-    "option2": "Polymorphism",
-    "option3": "Inheritance",
-    "right_answer": "Inheritance",
-    "difficulty_level": "Medium"
+    "Question": "In object-oriented programming, what term refers to the inheritance of properties and methods from a parent class?",
+    "Option1": "Encapsulation",
+    "Option2": "Polymorphism",
+    "Option3": "Inheritance",
+    "Right_answer": "Inheritance",
+    "Difficulty_level": "Medium",
+    "Category": "Programming"
   },
   {
-    "question": "A data structure that allows efficient access to elements by key is called a?",
-    "option1": "Array",
-    "option2": "Linked List",
-    "option3": "Hash Table",
-    "right_answer": "Hash Table",
-    "difficulty_level": "Medium"
+    "Question": "A data structure that allows efficient access to elements by key is called a?",
+    "Option1": "Array",
+    "Option2": "Linked List",
+    "Option3": "Hash Table",
+    "Right_answer": "Hash Table",
+    "Difficulty_level": "Medium",
+    "Category": "Programming"
   },
   {
-    "question": "What is a closure in programming, and how does it work?",
-    "option1": "A closure is a function that remembers the environment in which it was created, even after the outer function has returned.",
-    "option2": "A closure is a way to group related functions together.",
-    "option3": "A closure is a special type of variable that can store multiple values.",
-    "right_answer": "A closure is a function that remembers the environment in which it was created, even after the outer function has returned.",
-    "difficulty_level": "Hard"
+    "Question": "What is a closure in programming, and how does it work?",
+    "Option1": "A closure is a function that remembers the environment in which it was created, even after the outer function has returned.",
+    "Option2": "A closure is a way to group related functions together.",
+    "Option3": "A closure is a special type of variable that can store multiple values.",
+    "Right_answer": "A closure is a function that remembers the environment in which it was created, even after the outer function has returned.",
+    "Difficulty_level": "Hard",
+    "Category": "Programming"
   },
   {
-    "question": "What are the differences between interpreted and compiled languages in programming?",
-    "option1": "Interpreted languages are executed line by line, while compiled languages are converted into machine code before execution.",
-    "option2": "Interpreted languages are faster than compiled languages, while compiled languages offer better performance.",
-    "option3": "Interpreted languages are only used for web development, while compiled languages are used for system programming.",
-    "right_answer": "Interpreted languages are executed line by line, while compiled languages are converted into machine code before execution.",
-    "difficulty_level": "Hard"
+    "Question": "What are the differences between interpreted and compiled languages in programming?",
+    "Option1": "Interpreted languages are executed line by line, while compiled languages are converted into machine code before execution.",
+    "Option2": "Interpreted languages are faster than compiled languages, while compiled languages offer better performance.",
+    "Option3": "Interpreted languages are only used for web development, while compiled languages are used for system programming.",
+    "Right_answer": "Interpreted languages are executed line by line, while compiled languages are converted into machine code before execution.",
+    "Difficulty_level": "Hard",
+    "Category": "Programming"
   },
   {
-    "question": "What is the concept of Big O notation used for in computer science?",
-    "option1": "Big O notation is used to describe the efficiency of algorithms in terms of their time complexity.",
-    "option2": "Big O notation is a way to represent floating-point numbers in computers.",
-    "option3": "Big O notation is a syntax for defining variables in programming languages.",
-    "right_answer": "Big O notation is used to describe the efficiency of algorithms in terms of their time complexity.",
-    "difficulty_level": "Hard"
+    "Question": "What is the concept of Big O notation used for in computer science?",
+    "Option1": "Big O notation is used to describe the efficiency of algorithms in terms of their time complexity.",
+    "Option2": "Big O notation is a way to represent floating-point numbers in computers.",
+    "Option3": "Big O notation is a syntax for defining variables in programming languages.",
+    "Right_answer": "Big O notation is used to describe the efficiency of algorithms in terms of their time complexity.",
+    "Difficulty_level": "Hard",
+    "Category": "Programming"
   }
 ]

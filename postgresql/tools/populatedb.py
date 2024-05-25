@@ -12,16 +12,17 @@ dbpassword = os.getenv('POSTGRES_PASSWORD', default="")
 dbhost = "localhost"
 
 # Table details
-table_name = "question"
+table_name = "Question"
 table_schema = """
 CREATE TABLE IF NOT EXISTS {table_name} (
       id SERIAL PRIMARY KEY,
-      question TEXT,
-      option1 TEXT,
-      option2 TEXT,
-      option3 TEXT,
-      right_answer TEXT,
-      difficulty_level TEXT
+      Question TEXT,
+      Option1 TEXT,
+      Option2 TEXT,
+      Option3 TEXT,
+      Right_answer TEXT,
+      Difficulty_level TEXT,
+      Category  TEXT
 );
 """.format(table_name=table_name)
 
@@ -38,23 +39,23 @@ def create_table():
     except (Exception, psycopg2.Error) as error:
         print(f"Error creating table: {error}")
 
-
 def populate_table(data):
     try:
         cur = conn.cursor()
 
-        insert_query = f"""INSERT INTO question (question, option1, option2, option3, right_answer, difficulty_level)
-                 VALUES (%s, %s, %s, %s, %s, %s)"""
+        insert_query = f"""INSERT INTO Question (Question, Option1, Option2, Option3, Right_answer, Difficulty_level, Category)
+                 VALUES (%s, %s, %s, %s, %s, %s, %s)"""
 
         for item in data:
-            question = item.get("question")
-            option1 = item.get("option1")
-            option2 = item.get("option2")
-            option3 = item.get("option3")
-            right_answer = item.get("right_answer")
-            difficulty_level = item.get("difficulty_level")
+            question = item.get("Question")
+            option1 = item.get("Option1")
+            option2 = item.get("Option2")
+            option3 = item.get("Option3")
+            right_answer = item.get("Right_answer")
+            difficulty_level = item.get("Difficulty_level")
+            category = item.get("Category")
 
-            cur.execute(insert_query, (question, option1, option2, option3, right_answer, difficulty_level))
+            cur.execute(insert_query, (question, option1, option2, option3, right_answer, difficulty_level, category))
             conn.commit()
             print(f"Data inserted into table '{table_name}' successfully.")
 
